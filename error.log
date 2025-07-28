@@ -1,0 +1,513 @@
+[2025-07-28 14:09:47] 3546150467 ❌ فشل → Locator.fill: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("//input[@id='phoneNumber']")
+
+[2025-07-28 14:09:47] 3546150108 ❌ فشل → Locator.fill: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("//input[@id='phoneNumber']")
+
+[2025-07-28 14:10:02] 3546150297 ❌ فشل → Locator.fill: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("//input[@id='phoneNumber']")
+
+[2025-07-28 14:18:41] 3546150108 ❌ فشل → Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://business.wheely.com/register", waiting until "load"
+
+[2025-07-28 14:18:41] 3546150356 ❌ فشل → Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://business.wheely.com/register", waiting until "load"
+
+[2025-07-28 14:37:36] 3546150287 ❌ فشل → HTTPConnectionPool(host='2captcha.com', port=80): Max retries exceeded with url: /res.php?key=49caa85a1a81e37773d7de12dae8e3aa&action=get&id=80222989403&json=1 (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x111b49040>: Failed to resolve '2captcha.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[2025-07-28 14:42:58] 3546150637 ❌ فشل → Page.goto: net::ERR_PROXY_CONNECTION_FAILED at https://business.wheely.com/register
+Call log:
+  - navigating to "https://business.wheely.com/register", waiting until "load"
+
+[2025-07-28 14:42:58] 3546150524 ❌ فشل → Page.goto: net::ERR_PROXY_CONNECTION_FAILED at https://business.wheely.com/register
+Call log:
+  - navigating to "https://business.wheely.com/register", waiting until "load"
+
+[2025-07-28 14:43:01] 3546150814 ❌ فشل → Page.goto: net::ERR_PROXY_CONNECTION_FAILED at https://business.wheely.com/register
+Call log:
+  - navigating to "https://business.wheely.com/register", waiting until "load"
+
+[2025-07-28 14:43:01] 3546150942 ❌ فشل → Page.goto: net::ERR_PROXY_CONNECTION_FAILED at https://business.wheely.com/register
+Call log:
+  - navigating to "https://business.wheely.com/register", waiting until "load"
+
+[2025-07-28 14:43:04] 3546150977 ❌ فشل → Page.goto: net::ERR_PROXY_CONNECTION_FAILED at https://business.wheely.com/register
+Call log:
+  - navigating to "https://business.wheely.com/register", waiting until "load"
+
+[2025-07-28 14:43:04] 3546151036 ❌ فشل → Page.goto: net::ERR_PROXY_CONNECTION_FAILED at https://business.wheely.com/register
+Call log:
+  - navigating to "https://business.wheely.com/register", waiting until "load"
+
+[2025-07-28 14:43:04] 3546151174 ❌ فشل → Page.goto: net::ERR_PROXY_CONNECTION_FAILED at https://business.wheely.com/register
+Call log:
+  - navigating to "https://business.wheely.com/register", waiting until "load"
+
+[2025-07-28 14:48:26] 3546151237 ❌ فشل → Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://business.wheely.com/register", waiting until "load"
+
+[2025-07-28 14:48:27] 3546151257 ❌ فشل → Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://business.wheely.com/register", waiting until "load"
+
+[2025-07-28 14:48:27] 3546151318 ❌ فشل → Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://business.wheely.com/register", waiting until "load"
+
+[2025-07-28 14:48:27] 3546151392 ❌ فشل → Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://business.wheely.com/register", waiting until "load"
+
+[2025-07-28 14:48:27] 3546151586 ❌ فشل → Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://business.wheely.com/register", waiting until "load"
+
+[2025-07-28 14:48:28] 3546151755 ❌ فشل → Page.goto: net::ERR_PROXY_CONNECTION_FAILED at https://business.wheely.com/register
+Call log:
+  - navigating to "https://business.wheely.com/register", waiting until "load"
+
+[2025-07-28 14:48:28] 3546152022 ❌ فشل → Page.goto: net::ERR_PROXY_CONNECTION_FAILED at https://business.wheely.com/register
+Call log:
+  - navigating to "https://business.wheely.com/register", waiting until "load"
+
+[2025-07-28 14:48:28] 3546152011 ❌ فشل → Page.goto: net::ERR_PROXY_CONNECTION_FAILED at https://business.wheely.com/register
+Call log:
+  - navigating to "https://business.wheely.com/register", waiting until "load"
+
+[2025-07-28 14:48:28] 3546151881 ❌ فشل → Page.goto: net::ERR_PROXY_CONNECTION_FAILED at https://business.wheely.com/register
+Call log:
+  - navigating to "https://business.wheely.com/register", waiting until "load"
+
+[2025-07-28 14:48:28] 3546151991 ❌ فشل → Page.goto: net::ERR_PROXY_CONNECTION_FAILED at https://business.wheely.com/register
+Call log:
+  - navigating to "https://business.wheely.com/register", waiting until "load"
+
+[2025-07-28 14:48:28] 3546152604 ❌ فشل → Page.goto: net::ERR_PROXY_CONNECTION_FAILED at https://business.wheely.com/register
+Call log:
+  - navigating to "https://business.wheely.com/register", waiting until "load"
+
+[2025-07-28 14:48:28] 3546152636 ❌ فشل → Page.goto: net::ERR_PROXY_CONNECTION_FAILED at https://business.wheely.com/register
+Call log:
+  - navigating to "https://business.wheely.com/register", waiting until "load"
+
+[2025-07-28 14:48:28] 3546152135 ❌ فشل → Page.goto: net::ERR_PROXY_CONNECTION_FAILED at https://business.wheely.com/register
+Call log:
+  - navigating to "https://business.wheely.com/register", waiting until "load"
+
+[2025-07-28 14:48:28] 3546152730 ❌ فشل → Page.goto: net::ERR_PROXY_CONNECTION_FAILED at https://business.wheely.com/register
+Call log:
+  - navigating to "https://business.wheely.com/register", waiting until "load"
+
+[2025-07-28 14:48:29] 3546152818 ❌ فشل → Page.goto: net::ERR_PROXY_CONNECTION_FAILED at https://business.wheely.com/register
+Call log:
+  - navigating to "https://business.wheely.com/register", waiting until "load"
+
+[2025-07-28 14:48:29] 3546152789 ❌ فشل → Page.goto: net::ERR_PROXY_CONNECTION_FAILED at https://business.wheely.com/register
+Call log:
+  - navigating to "https://business.wheely.com/register", waiting until "load"
+
+[2025-07-28 14:48:29] 3546153340 ❌ فشل → Page.goto: net::ERR_PROXY_CONNECTION_FAILED at https://business.wheely.com/register
+Call log:
+  - navigating to "https://business.wheely.com/register", waiting until "load"
+
+[2025-07-28 14:48:29] 3546152831 ❌ فشل → Page.goto: net::ERR_PROXY_CONNECTION_FAILED at https://business.wheely.com/register
+Call log:
+  - navigating to "https://business.wheely.com/register", waiting until "load"
+
+[2025-07-28 14:48:29] 3546153348 ❌ فشل → Page.goto: net::ERR_PROXY_CONNECTION_FAILED at https://business.wheely.com/register
+Call log:
+  - navigating to "https://business.wheely.com/register", waiting until "load"
+
+[2025-07-28 14:48:29] 3546153239 ❌ فشل → Page.goto: net::ERR_PROXY_CONNECTION_FAILED at https://business.wheely.com/register
+Call log:
+  - navigating to "https://business.wheely.com/register", waiting until "load"
+
+[2025-07-28 14:48:29] 3546152828 ❌ فشل → Page.goto: net::ERR_PROXY_CONNECTION_FAILED at https://business.wheely.com/register
+Call log:
+  - navigating to "https://business.wheely.com/register", waiting until "load"
+
+[2025-07-28 14:48:29] 3546153399 ❌ فشل → Page.goto: net::ERR_PROXY_CONNECTION_FAILED at https://business.wheely.com/register
+Call log:
+  - navigating to "https://business.wheely.com/register", waiting until "load"
+
+[2025-07-28 14:48:29] 3546153861 ❌ فشل → Page.goto: net::ERR_PROXY_CONNECTION_FAILED at https://business.wheely.com/register
+Call log:
+  - navigating to "https://business.wheely.com/register", waiting until "load"
+
+[2025-07-28 14:48:29] 3546153572 ❌ فشل → Page.goto: net::ERR_PROXY_CONNECTION_FAILED at https://business.wheely.com/register
+Call log:
+  - navigating to "https://business.wheely.com/register", waiting until "load"
+
+[2025-07-28 14:48:29] 3546153700 ❌ فشل → Page.goto: net::ERR_PROXY_CONNECTION_FAILED at https://business.wheely.com/register
+Call log:
+  - navigating to "https://business.wheely.com/register", waiting until "load"
+
+[2025-07-28 14:48:30] 3546153553 ❌ فشل → Page.goto: net::ERR_PROXY_CONNECTION_FAILED at https://business.wheely.com/register
+Call log:
+  - navigating to "https://business.wheely.com/register", waiting until "load"
+
+[2025-07-28 14:48:30] 3546153909 ❌ فشل → Page.goto: net::ERR_PROXY_CONNECTION_FAILED at https://business.wheely.com/register
+Call log:
+  - navigating to "https://business.wheely.com/register", waiting until "load"
+
+[2025-07-28 14:48:30] 3546154115 ❌ فشل → Page.goto: net::ERR_PROXY_CONNECTION_FAILED at https://business.wheely.com/register
+Call log:
+  - navigating to "https://business.wheely.com/register", waiting until "load"
+
+[2025-07-28 14:48:30] 3546153922 ❌ فشل → Page.goto: net::ERR_PROXY_CONNECTION_FAILED at https://business.wheely.com/register
+Call log:
+  - navigating to "https://business.wheely.com/register", waiting until "load"
+
+[2025-07-28 14:48:31] 3546154274 ❌ فشل → Page.goto: net::ERR_PROXY_CONNECTION_FAILED at https://business.wheely.com/register
+Call log:
+  - navigating to "https://business.wheely.com/register", waiting until "load"
+
+[2025-07-28 14:48:31] 3546154429 ❌ فشل → Page.goto: net::ERR_PROXY_CONNECTION_FAILED at https://business.wheely.com/register
+Call log:
+  - navigating to "https://business.wheely.com/register", waiting until "load"
+
+[2025-07-28 14:48:34] 3546154494 ❌ فشل → Page.goto: net::ERR_PROXY_CONNECTION_FAILED at https://business.wheely.com/register
+Call log:
+  - navigating to "https://business.wheely.com/register", waiting until "load"
+
+[2025-07-28 14:48:34] 3546154530 ❌ فشل → Page.goto: net::ERR_PROXY_CONNECTION_FAILED at https://business.wheely.com/register
+Call log:
+  - navigating to "https://business.wheely.com/register", waiting until "load"
+
+[2025-07-28 14:48:34] 3546154551 ❌ فشل → Page.goto: net::ERR_PROXY_CONNECTION_FAILED at https://business.wheely.com/register
+Call log:
+  - navigating to "https://business.wheely.com/register", waiting until "load"
+
+[2025-07-28 14:48:35] 3546154632 ❌ فشل → Page.goto: net::ERR_PROXY_CONNECTION_FAILED at https://business.wheely.com/register
+Call log:
+  - navigating to "https://business.wheely.com/register", waiting until "load"
+
+[2025-07-28 14:48:36] 3546154717 ❌ فشل → Page.goto: net::ERR_PROXY_CONNECTION_FAILED at https://business.wheely.com/register
+Call log:
+  - navigating to "https://business.wheely.com/register", waiting until "load"
+
+[2025-07-28 14:48:36] 3546154748 ❌ فشل → Page.goto: net::ERR_PROXY_CONNECTION_FAILED at https://business.wheely.com/register
+Call log:
+  - navigating to "https://business.wheely.com/register", waiting until "load"
+
+[2025-07-28 14:48:38] 3546154956 ❌ فشل → Page.goto: net::ERR_PROXY_CONNECTION_FAILED at https://business.wheely.com/register
+Call log:
+  - navigating to "https://business.wheely.com/register", waiting until "load"
+
+[2025-07-28 14:48:38] 3546155217 ❌ فشل → Page.goto: net::ERR_PROXY_CONNECTION_FAILED at https://business.wheely.com/register
+Call log:
+  - navigating to "https://business.wheely.com/register", waiting until "load"
+
+[2025-07-28 14:48:38] 3546155281 ❌ فشل → Page.goto: net::ERR_PROXY_CONNECTION_FAILED at https://business.wheely.com/register
+Call log:
+  - navigating to "https://business.wheely.com/register", waiting until "load"
+
+[2025-07-28 14:48:40] 3546155328 ❌ فشل → Page.goto: net::ERR_PROXY_CONNECTION_FAILED at https://business.wheely.com/register
+Call log:
+  - navigating to "https://business.wheely.com/register", waiting until "load"
+
+[2025-07-28 14:48:41] 3546155398 ❌ فشل → Page.goto: net::ERR_PROXY_CONNECTION_FAILED at https://business.wheely.com/register
+Call log:
+  - navigating to "https://business.wheely.com/register", waiting until "load"
+
+[2025-07-28 14:48:41] 3546155516 ❌ فشل → Page.goto: net::ERR_PROXY_CONNECTION_FAILED at https://business.wheely.com/register
+Call log:
+  - navigating to "https://business.wheely.com/register", waiting until "load"
+
+[2025-07-28 14:48:43] 3546155522 ❌ فشل → Page.goto: net::ERR_PROXY_CONNECTION_FAILED at https://business.wheely.com/register
+Call log:
+  - navigating to "https://business.wheely.com/register", waiting until "load"
+
+[2025-07-28 14:48:43] 3546155528 ❌ فشل → Page.goto: net::ERR_PROXY_CONNECTION_FAILED at https://business.wheely.com/register
+Call log:
+  - navigating to "https://business.wheely.com/register", waiting until "load"
+
+[2025-07-28 14:48:43] 3546155576 ❌ فشل → Page.goto: net::ERR_PROXY_CONNECTION_FAILED at https://business.wheely.com/register
+Call log:
+  - navigating to "https://business.wheely.com/register", waiting until "load"
+
+[2025-07-28 14:48:45] 3546155795 ❌ فشل → Page.goto: net::ERR_PROXY_CONNECTION_FAILED at https://business.wheely.com/register
+Call log:
+  - navigating to "https://business.wheely.com/register", waiting until "load"
+
+[2025-07-28 14:48:46] 3546155971 ❌ فشل → Page.goto: net::ERR_PROXY_CONNECTION_FAILED at https://business.wheely.com/register
+Call log:
+  - navigating to "https://business.wheely.com/register", waiting until "load"
+
+[2025-07-28 14:48:49] 3546156091 ❌ فشل → Page.goto: net::ERR_PROXY_CONNECTION_FAILED at https://business.wheely.com/register
+Call log:
+  - navigating to "https://business.wheely.com/register", waiting until "load"
+
+[2025-07-28 14:48:49] 3546156098 ❌ فشل → Page.goto: net::ERR_PROXY_CONNECTION_FAILED at https://business.wheely.com/register
+Call log:
+  - navigating to "https://business.wheely.com/register", waiting until "load"
+
+[2025-07-28 14:48:49] 3546156192 ❌ فشل → Page.goto: net::ERR_PROXY_CONNECTION_FAILED at https://business.wheely.com/register
+Call log:
+  - navigating to "https://business.wheely.com/register", waiting until "load"
+
+[2025-07-28 14:48:49] 3546156213 ❌ فشل → Page.goto: net::ERR_PROXY_CONNECTION_FAILED at https://business.wheely.com/register
+Call log:
+  - navigating to "https://business.wheely.com/register", waiting until "load"
+
+[2025-07-28 14:48:51] 3546156609 ❌ فشل → Page.goto: net::ERR_PROXY_CONNECTION_FAILED at https://business.wheely.com/register
+Call log:
+  - navigating to "https://business.wheely.com/register", waiting until "load"
+
+[2025-07-28 14:48:51] 3546156505 ❌ فشل → Page.goto: net::ERR_PROXY_CONNECTION_FAILED at https://business.wheely.com/register
+Call log:
+  - navigating to "https://business.wheely.com/register", waiting until "load"
+
+[2025-07-28 14:48:52] 3546156424 ❌ فشل → Page.goto: net::ERR_PROXY_CONNECTION_FAILED at https://business.wheely.com/register
+Call log:
+  - navigating to "https://business.wheely.com/register", waiting until "load"
+
+[2025-07-28 14:48:52] 3546156821 ❌ فشل → Page.goto: net::ERR_PROXY_CONNECTION_FAILED at https://business.wheely.com/register
+Call log:
+  - navigating to "https://business.wheely.com/register", waiting until "load"
+
+[2025-07-28 14:48:52] 3546156766 ❌ فشل → Page.goto: net::ERR_PROXY_CONNECTION_FAILED at https://business.wheely.com/register
+Call log:
+  - navigating to "https://business.wheely.com/register", waiting until "load"
+
+[2025-07-28 14:48:54] 3546156824 ❌ فشل → Page.goto: net::ERR_PROXY_CONNECTION_FAILED at https://business.wheely.com/register
+Call log:
+  - navigating to "https://business.wheely.com/register", waiting until "load"
+
+[2025-07-28 14:48:56] 3546157024 ❌ فشل → Page.goto: net::ERR_PROXY_CONNECTION_FAILED at https://business.wheely.com/register
+Call log:
+  - navigating to "https://business.wheely.com/register", waiting until "load"
+
+[2025-07-28 14:48:56] 3546157232 ❌ فشل → Page.goto: net::ERR_PROXY_CONNECTION_FAILED at https://business.wheely.com/register
+Call log:
+  - navigating to "https://business.wheely.com/register", waiting until "load"
+
+[2025-07-28 14:48:56] 3546157295 ❌ فشل → Page.goto: net::ERR_PROXY_CONNECTION_FAILED at https://business.wheely.com/register
+Call log:
+  - navigating to "https://business.wheely.com/register", waiting until "load"
+
+[2025-07-28 14:48:56] 3546157337 ❌ فشل → Page.goto: net::ERR_PROXY_CONNECTION_FAILED at https://business.wheely.com/register
+Call log:
+  - navigating to "https://business.wheely.com/register", waiting until "load"
+
+[2025-07-28 14:48:58] 3546157353 ❌ فشل → Page.goto: net::ERR_PROXY_CONNECTION_FAILED at https://business.wheely.com/register
+Call log:
+  - navigating to "https://business.wheely.com/register", waiting until "load"
+
+[2025-07-28 14:48:58] 3546157507 ❌ فشل → Page.goto: net::ERR_PROXY_CONNECTION_FAILED at https://business.wheely.com/register
+Call log:
+  - navigating to "https://business.wheely.com/register", waiting until "load"
+
+[2025-07-28 14:49:00] 3546157756 ❌ فشل → Page.goto: net::ERR_PROXY_CONNECTION_FAILED at https://business.wheely.com/register
+Call log:
+  - navigating to "https://business.wheely.com/register", waiting until "load"
+
+[2025-07-28 14:49:00] 3546157752 ❌ فشل → Page.goto: net::ERR_PROXY_CONNECTION_FAILED at https://business.wheely.com/register
+Call log:
+  - navigating to "https://business.wheely.com/register", waiting until "load"
+
+[2025-07-28 14:49:00] 3546157897 ❌ فشل → Page.goto: net::ERR_PROXY_CONNECTION_FAILED at https://business.wheely.com/register
+Call log:
+  - navigating to "https://business.wheely.com/register", waiting until "load"
+
+[2025-07-28 14:49:00] 3546157923 ❌ فشل → Page.goto: net::ERR_PROXY_CONNECTION_FAILED at https://business.wheely.com/register
+Call log:
+  - navigating to "https://business.wheely.com/register", waiting until "load"
+
+[2025-07-28 14:49:01] 3546158140 ❌ فشل → Page.goto: net::ERR_PROXY_CONNECTION_FAILED at https://business.wheely.com/register
+Call log:
+  - navigating to "https://business.wheely.com/register", waiting until "load"
+
+[2025-07-28 14:49:02] 3546158213 ❌ فشل → Page.goto: net::ERR_PROXY_CONNECTION_FAILED at https://business.wheely.com/register
+Call log:
+  - navigating to "https://business.wheely.com/register", waiting until "load"
+
+[2025-07-28 14:49:03] 3546158277 ❌ فشل → Page.goto: net::ERR_PROXY_CONNECTION_FAILED at https://business.wheely.com/register
+Call log:
+  - navigating to "https://business.wheely.com/register", waiting until "load"
+
+[2025-07-28 14:49:03] 3546158479 ❌ فشل → Page.goto: net::ERR_PROXY_CONNECTION_FAILED at https://business.wheely.com/register
+Call log:
+  - navigating to "https://business.wheely.com/register", waiting until "load"
+
+[2025-07-28 14:49:04] 3546158664 ❌ فشل → Page.goto: net::ERR_PROXY_CONNECTION_FAILED at https://business.wheely.com/register
+Call log:
+  - navigating to "https://business.wheely.com/register", waiting until "load"
+
+[2025-07-28 14:49:04] 3546158735 ❌ فشل → Page.goto: net::ERR_PROXY_CONNECTION_FAILED at https://business.wheely.com/register
+Call log:
+  - navigating to "https://business.wheely.com/register", waiting until "load"
+
+[2025-07-28 14:49:06] 3546158782 ❌ فشل → Page.goto: net::ERR_PROXY_CONNECTION_FAILED at https://business.wheely.com/register
+Call log:
+  - navigating to "https://business.wheely.com/register", waiting until "load"
+
+[2025-07-28 14:49:06] 3546158851 ❌ فشل → Page.goto: net::ERR_PROXY_CONNECTION_FAILED at https://business.wheely.com/register
+Call log:
+  - navigating to "https://business.wheely.com/register", waiting until "load"
+
+[2025-07-28 14:56:38] 3546159007 ❌ فشل → Page.goto: net::ERR_PROXY_CONNECTION_FAILED at https://business.wheely.com/register
+Call log:
+  - navigating to "https://business.wheely.com/register", waiting until "load"
+
+[2025-07-28 14:56:38] 3546158911 ❌ فشل → Page.goto: net::ERR_PROXY_CONNECTION_FAILED at https://business.wheely.com/register
+Call log:
+  - navigating to "https://business.wheely.com/register", waiting until "load"
+
+[2025-07-28 14:56:38] 3546158744 ❌ فشل → Page.goto: net::ERR_PROXY_CONNECTION_FAILED at https://business.wheely.com/register
+Call log:
+  - navigating to "https://business.wheely.com/register", waiting until "load"
+
+[2025-07-28 14:56:40] 3546159055 ❌ فشل → Page.goto: net::ERR_PROXY_CONNECTION_FAILED at https://business.wheely.com/register
+Call log:
+  - navigating to "https://business.wheely.com/register", waiting until "load"
+
+[2025-07-28 14:56:40] 3546159226 ❌ فشل → Page.goto: net::ERR_PROXY_CONNECTION_FAILED at https://business.wheely.com/register
+Call log:
+  - navigating to "https://business.wheely.com/register", waiting until "load"
+
+[2025-07-28 14:56:40] 3546159145 ❌ فشل → Page.goto: net::ERR_PROXY_CONNECTION_FAILED at https://business.wheely.com/register
+Call log:
+  - navigating to "https://business.wheely.com/register", waiting until "load"
+
+[2025-07-28 14:56:40] 3546159550 ❌ فشل → Page.goto: net::ERR_PROXY_CONNECTION_FAILED at https://business.wheely.com/register
+Call log:
+  - navigating to "https://business.wheely.com/register", waiting until "load"
+
+[2025-07-28 14:56:40] 3546159630 ❌ فشل → Page.goto: net::ERR_PROXY_CONNECTION_FAILED at https://business.wheely.com/register
+Call log:
+  - navigating to "https://business.wheely.com/register", waiting until "load"
+
+[2025-07-28 14:56:40] 3546159956 ❌ فشل → Page.goto: net::ERR_PROXY_CONNECTION_FAILED at https://business.wheely.com/register
+Call log:
+  - navigating to "https://business.wheely.com/register", waiting until "load"
+
+[2025-07-28 14:56:40] 3546159852 ❌ فشل → Page.goto: net::ERR_PROXY_CONNECTION_FAILED at https://business.wheely.com/register
+Call log:
+  - navigating to "https://business.wheely.com/register", waiting until "load"
+
+[2025-07-28 14:56:40] 3546159866 ❌ فشل → Page.goto: net::ERR_PROXY_CONNECTION_FAILED at https://business.wheely.com/register
+Call log:
+  - navigating to "https://business.wheely.com/register", waiting until "load"
+
+[2025-07-28 14:56:40] 3546159964 ❌ فشل → Page.goto: net::ERR_PROXY_CONNECTION_FAILED at https://business.wheely.com/register
+Call log:
+  - navigating to "https://business.wheely.com/register", waiting until "load"
+
+[2025-07-28 15:37:39] 3546150108 ❌ فشل → not enough values to unpack (expected 4, got 3)
+[2025-07-28 15:37:39] 3546150287 ❌ فشل → not enough values to unpack (expected 4, got 3)
+[2025-07-28 15:37:39] 3546150297 ❌ فشل → not enough values to unpack (expected 4, got 3)
+[2025-07-28 15:37:39] 3546150356 ❌ فشل → not enough values to unpack (expected 4, got 3)
+[2025-07-28 15:37:39] 3546150467 ❌ فشل → not enough values to unpack (expected 4, got 3)
+[2025-07-28 15:37:39] 3546150524 ❌ فشل → not enough values to unpack (expected 4, got 3)
+[2025-07-28 15:37:39] 3546150637 ❌ فشل → not enough values to unpack (expected 4, got 3)
+[2025-07-28 15:37:39] 3546150814 ❌ فشل → not enough values to unpack (expected 4, got 3)
+[2025-07-28 15:37:39] 3546150942 ❌ فشل → not enough values to unpack (expected 4, got 3)
+[2025-07-28 15:37:39] 3546150977 ❌ فشل → not enough values to unpack (expected 4, got 3)
+[2025-07-28 15:37:39] 3546151036 ❌ فشل → not enough values to unpack (expected 4, got 3)
+[2025-07-28 15:37:39] 3546151174 ❌ فشل → not enough values to unpack (expected 4, got 3)
+[2025-07-28 15:37:39] 3546151237 ❌ فشل → not enough values to unpack (expected 4, got 3)
+[2025-07-28 15:37:39] 3546151257 ❌ فشل → not enough values to unpack (expected 4, got 3)
+[2025-07-28 15:37:39] 3546151318 ❌ فشل → not enough values to unpack (expected 4, got 3)
+[2025-07-28 15:37:39] 3546151392 ❌ فشل → not enough values to unpack (expected 4, got 3)
+[2025-07-28 15:37:39] 3546151586 ❌ فشل → not enough values to unpack (expected 4, got 3)
+[2025-07-28 15:37:39] 3546151755 ❌ فشل → not enough values to unpack (expected 4, got 3)
+[2025-07-28 15:37:39] 3546151881 ❌ فشل → not enough values to unpack (expected 4, got 3)
+[2025-07-28 15:37:39] 3546151991 ❌ فشل → not enough values to unpack (expected 4, got 3)
+[2025-07-28 15:37:39] 3546152011 ❌ فشل → not enough values to unpack (expected 4, got 3)
+[2025-07-28 15:37:39] 3546152022 ❌ فشل → not enough values to unpack (expected 4, got 3)
+[2025-07-28 15:37:39] 3546152135 ❌ فشل → not enough values to unpack (expected 4, got 3)
+[2025-07-28 15:37:39] 3546152604 ❌ فشل → not enough values to unpack (expected 4, got 3)
+[2025-07-28 15:37:39] 3546152636 ❌ فشل → not enough values to unpack (expected 4, got 3)
+[2025-07-28 15:37:39] 3546152730 ❌ فشل → not enough values to unpack (expected 4, got 3)
+[2025-07-28 15:37:39] 3546152789 ❌ فشل → not enough values to unpack (expected 4, got 3)
+[2025-07-28 15:37:39] 3546152818 ❌ فشل → not enough values to unpack (expected 4, got 3)
+[2025-07-28 15:37:39] 3546152828 ❌ فشل → not enough values to unpack (expected 4, got 3)
+[2025-07-28 15:37:39] 3546152831 ❌ فشل → not enough values to unpack (expected 4, got 3)
+[2025-07-28 15:37:39] 3546153239 ❌ فشل → not enough values to unpack (expected 4, got 3)
+[2025-07-28 15:37:39] 3546153340 ❌ فشل → not enough values to unpack (expected 4, got 3)
+[2025-07-28 15:37:39] 3546153348 ❌ فشل → not enough values to unpack (expected 4, got 3)
+[2025-07-28 15:37:39] 3546153399 ❌ فشل → not enough values to unpack (expected 4, got 3)
+[2025-07-28 15:37:39] 3546153553 ❌ فشل → not enough values to unpack (expected 4, got 3)
+[2025-07-28 15:37:39] 3546153572 ❌ فشل → not enough values to unpack (expected 4, got 3)
+[2025-07-28 15:37:39] 3546153700 ❌ فشل → not enough values to unpack (expected 4, got 3)
+[2025-07-28 15:37:39] 3546153861 ❌ فشل → not enough values to unpack (expected 4, got 3)
+[2025-07-28 15:37:39] 3546153909 ❌ فشل → not enough values to unpack (expected 4, got 3)
+[2025-07-28 15:37:39] 3546153922 ❌ فشل → not enough values to unpack (expected 4, got 3)
+[2025-07-28 15:37:39] 3546154115 ❌ فشل → not enough values to unpack (expected 4, got 3)
+[2025-07-28 15:37:39] 3546154274 ❌ فشل → not enough values to unpack (expected 4, got 3)
+[2025-07-28 15:37:39] 3546154429 ❌ فشل → not enough values to unpack (expected 4, got 3)
+[2025-07-28 15:37:39] 3546154494 ❌ فشل → not enough values to unpack (expected 4, got 3)
+[2025-07-28 15:37:39] 3546154530 ❌ فشل → not enough values to unpack (expected 4, got 3)
+[2025-07-28 15:37:39] 3546154551 ❌ فشل → not enough values to unpack (expected 4, got 3)
+[2025-07-28 15:37:39] 3546154632 ❌ فشل → not enough values to unpack (expected 4, got 3)
+[2025-07-28 15:37:39] 3546154717 ❌ فشل → not enough values to unpack (expected 4, got 3)
+[2025-07-28 15:37:39] 3546154748 ❌ فشل → not enough values to unpack (expected 4, got 3)
+[2025-07-28 15:37:39] 3546154956 ❌ فشل → not enough values to unpack (expected 4, got 3)
+[2025-07-28 15:37:39] 3546155217 ❌ فشل → not enough values to unpack (expected 4, got 3)
+[2025-07-28 15:37:39] 3546155281 ❌ فشل → not enough values to unpack (expected 4, got 3)
+[2025-07-28 15:37:39] 3546155328 ❌ فشل → not enough values to unpack (expected 4, got 3)
+[2025-07-28 15:37:39] 3546155398 ❌ فشل → not enough values to unpack (expected 4, got 3)
+[2025-07-28 15:37:39] 3546155516 ❌ فشل → not enough values to unpack (expected 4, got 3)
+[2025-07-28 15:37:39] 3546155522 ❌ فشل → not enough values to unpack (expected 4, got 3)
+[2025-07-28 15:37:39] 3546155528 ❌ فشل → not enough values to unpack (expected 4, got 3)
+[2025-07-28 15:37:39] 3546155576 ❌ فشل → not enough values to unpack (expected 4, got 3)
+[2025-07-28 15:37:39] 3546155795 ❌ فشل → not enough values to unpack (expected 4, got 3)
+[2025-07-28 15:37:39] 3546155971 ❌ فشل → not enough values to unpack (expected 4, got 3)
+[2025-07-28 15:37:39] 3546156091 ❌ فشل → not enough values to unpack (expected 4, got 3)
+[2025-07-28 15:37:39] 3546156098 ❌ فشل → not enough values to unpack (expected 4, got 3)
+[2025-07-28 15:37:39] 3546156192 ❌ فشل → not enough values to unpack (expected 4, got 3)
+[2025-07-28 15:37:39] 3546156213 ❌ فشل → not enough values to unpack (expected 4, got 3)
+[2025-07-28 15:37:39] 3546156424 ❌ فشل → not enough values to unpack (expected 4, got 3)
+[2025-07-28 15:37:39] 3546156505 ❌ فشل → not enough values to unpack (expected 4, got 3)
+[2025-07-28 15:37:39] 3546156609 ❌ فشل → not enough values to unpack (expected 4, got 3)
+[2025-07-28 15:37:39] 3546156766 ❌ فشل → not enough values to unpack (expected 4, got 3)
+[2025-07-28 15:37:39] 3546156821 ❌ فشل → not enough values to unpack (expected 4, got 3)
+[2025-07-28 15:37:39] 3546156824 ❌ فشل → not enough values to unpack (expected 4, got 3)
+[2025-07-28 15:37:39] 3546157024 ❌ فشل → not enough values to unpack (expected 4, got 3)
+[2025-07-28 15:37:39] 3546157232 ❌ فشل → not enough values to unpack (expected 4, got 3)
+[2025-07-28 15:37:39] 3546157295 ❌ فشل → not enough values to unpack (expected 4, got 3)
+[2025-07-28 15:37:39] 3546157337 ❌ فشل → not enough values to unpack (expected 4, got 3)
+[2025-07-28 15:37:39] 3546157353 ❌ فشل → not enough values to unpack (expected 4, got 3)
+[2025-07-28 15:37:39] 3546157507 ❌ فشل → not enough values to unpack (expected 4, got 3)
+[2025-07-28 15:37:39] 3546157752 ❌ فشل → not enough values to unpack (expected 4, got 3)
+[2025-07-28 15:37:39] 3546157756 ❌ فشل → not enough values to unpack (expected 4, got 3)
+[2025-07-28 15:37:39] 3546157897 ❌ فشل → not enough values to unpack (expected 4, got 3)
+[2025-07-28 15:37:39] 3546157923 ❌ فشل → not enough values to unpack (expected 4, got 3)
+[2025-07-28 15:37:39] 3546158140 ❌ فشل → not enough values to unpack (expected 4, got 3)
+[2025-07-28 15:37:39] 3546158213 ❌ فشل → not enough values to unpack (expected 4, got 3)
+[2025-07-28 15:37:39] 3546158277 ❌ فشل → not enough values to unpack (expected 4, got 3)
+[2025-07-28 15:37:39] 3546158479 ❌ فشل → not enough values to unpack (expected 4, got 3)
+[2025-07-28 15:37:39] 3546158664 ❌ فشل → not enough values to unpack (expected 4, got 3)
+[2025-07-28 15:37:39] 3546158735 ❌ فشل → not enough values to unpack (expected 4, got 3)
+[2025-07-28 15:37:39] 3546158744 ❌ فشل → not enough values to unpack (expected 4, got 3)
+[2025-07-28 15:37:39] 3546158782 ❌ فشل → not enough values to unpack (expected 4, got 3)
+[2025-07-28 15:37:39] 3546158851 ❌ فشل → not enough values to unpack (expected 4, got 3)
+[2025-07-28 15:37:39] 3546158911 ❌ فشل → not enough values to unpack (expected 4, got 3)
+[2025-07-28 15:37:39] 3546159007 ❌ فشل → not enough values to unpack (expected 4, got 3)
+[2025-07-28 15:37:39] 3546159055 ❌ فشل → not enough values to unpack (expected 4, got 3)
+[2025-07-28 15:37:39] 3546159145 ❌ فشل → not enough values to unpack (expected 4, got 3)
+[2025-07-28 15:37:39] 3546159226 ❌ فشل → not enough values to unpack (expected 4, got 3)
+[2025-07-28 15:37:39] 3546159550 ❌ فشل → not enough values to unpack (expected 4, got 3)
+[2025-07-28 15:37:39] 3546159630 ❌ فشل → not enough values to unpack (expected 4, got 3)
+[2025-07-28 15:37:39] 3546159852 ❌ فشل → not enough values to unpack (expected 4, got 3)
+[2025-07-28 15:37:39] 3546159866 ❌ فشل → not enough values to unpack (expected 4, got 3)
+[2025-07-28 15:37:39] 3546159956 ❌ فشل → not enough values to unpack (expected 4, got 3)
+[2025-07-28 15:37:39] 3546159964 ❌ فشل → not enough values to unpack (expected 4, got 3)
+[2025-07-28 16:18:10] 996227083911 ❌ فشل → Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://www.w1.kz/user-registration", waiting until "load"
+
+[2025-07-28 16:21:14] 996227083911 ❌ فشل → 'phone_input_xpath'
+[2025-07-28 16:25:31] 996227083911 ❌ فشل → 'function' object has no attribute 'get'
+[2025-07-28 16:43:32] 996227083911 ❌ فشل → 'fetch_api_request'
+[2025-07-28 16:47:37] 996227083911 ❌ فشل → Page.evaluate: ReferenceError: True is not defined
+    at eval (eval at evaluate (:291:30), <anonymous>:4:149)
+    at eval (<anonymous>)
+    at UtilityScript.evaluate (<anonymous>:291:30)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)

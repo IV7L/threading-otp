@@ -1,0 +1,22 @@
+{
+    "site_url": "https://business.wheely.com/register",
+    "site_key": "dc9ecd44-67f9-4e70-8ed3-a06b954cd691",
+    "phone_input_xpath": "//input[@name='phone']",
+    "submit_button_xpath": "//button[@type='submit']",
+    "signature_strategy": "wheely_simple_base64",
+    "inject_token_js": "window.___token = '{{token}}';",
+    "fetch_api_request": {
+      "url": "https://api.wheely.com/v6/auth/oauth/token",
+      "method": "POST",
+      "headers": {
+        "content-type": "application/json",
+        "x-wheely-sign": "INJECT_DYNAMIC_SIGNATURE"
+      },
+      "body": {
+        "app_id": "55e085968a5da59241000001",
+        "phone": "+{{phone}}",
+        "b2b_registration": true
+      }
+    }
+  }
+  

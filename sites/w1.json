@@ -1,0 +1,21 @@
+{
+  "site_url": "https://www.w1.kz/user-registration",
+  "site_key": "6LeSDhITAAAAAMlEMLu3b9rB1OUdcMpzuPdLbLg-",
+  "captcha_type": "recaptcha",
+  "phone_input_xpath": "//input[@aria-label='Номер телефона']",
+  "signature_strategy": "none",
+  "fetch_api_request": {
+    "url": "https://www.w1.kz/api/customer/user-registration/v1.0/start",
+    "method": "POST",
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "body": {
+      "login": "{{phone}}",
+      "password": "7y7y7y7y@LIVE",
+      "confirmPassword": "7y7y7y7y@LIVE",
+      "acceptServiceAgreement": true,
+      "reCaptchaToken": "INJECT_DYNAMIC_SIGNATURE"
+    }
+  }
+}
