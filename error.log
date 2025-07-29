@@ -511,3 +511,271 @@ Call log:
     at eval (<anonymous>)
     at UtilityScript.evaluate (<anonymous>:291:30)
     at UtilityScript.<anonymous> (<anonymous>:1:44)
+[2025-07-29 11:33:16] 996771500234 ❌ فشل → Page.goto: net::ERR_TIMED_OUT at https://www.w1.kz/user-registration
+Call log:
+  - navigating to "https://www.w1.kz/user-registration", waiting until "domcontentloaded"
+
+[2025-07-29 11:33:16] 996771500334 ❌ فشل → Page.goto: net::ERR_TIMED_OUT at https://www.w1.kz/user-registration
+Call log:
+  - navigating to "https://www.w1.kz/user-registration", waiting until "domcontentloaded"
+
+[2025-07-29 11:33:16] 996771500365 ❌ فشل → Page.goto: net::ERR_TIMED_OUT at https://www.w1.kz/user-registration
+Call log:
+  - navigating to "https://www.w1.kz/user-registration", waiting until "domcontentloaded"
+
+[2025-07-29 11:33:16] 996771500165 ❌ فشل → Page.goto: net::ERR_TIMED_OUT at https://www.w1.kz/user-registration
+Call log:
+  - navigating to "https://www.w1.kz/user-registration", waiting until "domcontentloaded"
+
+[2025-07-29 11:33:16] 996771500431 ❌ فشل → Page.goto: net::ERR_TIMED_OUT at https://www.w1.kz/user-registration
+Call log:
+  - navigating to "https://www.w1.kz/user-registration", waiting until "domcontentloaded"
+
+[2025-07-29 11:33:16] 996771500234 ❌ فشل → Page.goto: net::ERR_TIMED_OUT at https://www.w1.kz/user-registration
+Call log:
+  - navigating to "https://www.w1.kz/user-registration", waiting until "domcontentloaded"
+
+[2025-07-29 11:33:16] 996771500334 ❌ فشل → Page.goto: net::ERR_TIMED_OUT at https://www.w1.kz/user-registration
+Call log:
+  - navigating to "https://www.w1.kz/user-registration", waiting until "domcontentloaded"
+
+[2025-07-29 11:33:16] 996771500365 ❌ فشل → Page.goto: net::ERR_TIMED_OUT at https://www.w1.kz/user-registration
+Call log:
+  - navigating to "https://www.w1.kz/user-registration", waiting until "domcontentloaded"
+
+[2025-07-29 11:33:16] 996771500165 ❌ فشل → Page.goto: net::ERR_TIMED_OUT at https://www.w1.kz/user-registration
+Call log:
+  - navigating to "https://www.w1.kz/user-registration", waiting until "domcontentloaded"
+
+[2025-07-29 11:33:16] 996771500165 ❌ فشل → Page.goto: net::ERR_TIMED_OUT at https://www.w1.kz/user-registration
+Call log:
+  - navigating to "https://www.w1.kz/user-registration", waiting until "domcontentloaded"
+
+[2025-07-29 11:33:16] 996771500431 ❌ فشل → Page.goto: net::ERR_TIMED_OUT at https://www.w1.kz/user-registration
+Call log:
+  - navigating to "https://www.w1.kz/user-registration", waiting until "domcontentloaded"
+
+[2025-07-29 11:33:16] 996771500234 ❌ فشل → Page.goto: net::ERR_TIMED_OUT at https://www.w1.kz/user-registration
+Call log:
+  - navigating to "https://www.w1.kz/user-registration", waiting until "domcontentloaded"
+
+[2025-07-29 11:33:16] 996771500334 ❌ فشل → Page.goto: net::ERR_TIMED_OUT at https://www.w1.kz/user-registration
+Call log:
+  - navigating to "https://www.w1.kz/user-registration", waiting until "domcontentloaded"
+
+[2025-07-29 11:33:16] 996771500431 ❌ فشل → Page.goto: net::ERR_TIMED_OUT at https://www.w1.kz/user-registration
+Call log:
+  - navigating to "https://www.w1.kz/user-registration", waiting until "domcontentloaded"
+
+[2025-07-29 11:33:16] 996771500365 ❌ فشل → Page.goto: net::ERR_TIMED_OUT at https://www.w1.kz/user-registration
+Call log:
+  - navigating to "https://www.w1.kz/user-registration", waiting until "domcontentloaded"
+
+[2025-07-29 11:34:30] 996771500831 ❌ فشل → Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://www.w1.kz/user-registration", waiting until "domcontentloaded"
+
+[2025-07-29 11:34:30] 996771500719 ❌ فشل → Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://www.w1.kz/user-registration", waiting until "domcontentloaded"
+
+[2025-07-29 11:34:42] 996771500719 ❌ فشل → Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://www.w1.kz/user-registration", waiting until "domcontentloaded"
+
+[2025-07-29 11:34:42] 996771500763 ❌ فشل → Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://www.w1.kz/user-registration", waiting until "domcontentloaded"
+
+[2025-07-29 11:34:42] 996771500831 ❌ فشل → Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://www.w1.kz/user-registration", waiting until "domcontentloaded"
+
+[2025-07-29 11:35:04] 996771500763 ❌ فشل → Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://www.w1.kz/user-registration", waiting until "domcontentloaded"
+
+[2025-07-29 11:35:04] 996771500719 ❌ فشل → Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://www.w1.kz/user-registration", waiting until "domcontentloaded"
+
+[2025-07-29 11:35:04] 996771500859 ❌ فشل → Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://www.w1.kz/user-registration", waiting until "domcontentloaded"
+
+[2025-07-29 11:38:41] 996771500334 ❌ فشل → Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://www.w1.kz/user-registration", waiting until "domcontentloaded"
+
+[2025-07-29 11:38:44] 996771500431 ❌ فشل → Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://www.w1.kz/user-registration", waiting until "domcontentloaded"
+
+[2025-07-29 11:40:03] 996771500165 ❌ فشل → Page.goto: net::ERR_TIMED_OUT at https://www.w1.kz/user-registration
+Call log:
+  - navigating to "https://www.w1.kz/user-registration", waiting until "domcontentloaded"
+
+[2025-07-29 11:40:03] 996771500234 ❌ فشل → Page.goto: net::ERR_TIMED_OUT at https://www.w1.kz/user-registration
+Call log:
+  - navigating to "https://www.w1.kz/user-registration", waiting until "domcontentloaded"
+
+[2025-07-29 11:40:03] 996771500165 ❌ فشل → Page.goto: net::ERR_TIMED_OUT at https://www.w1.kz/user-registration
+Call log:
+  - navigating to "https://www.w1.kz/user-registration", waiting until "domcontentloaded"
+
+[2025-07-29 11:40:03] 996771500334 ❌ فشل → Page.goto: net::ERR_TIMED_OUT at https://www.w1.kz/user-registration
+Call log:
+  - navigating to "https://www.w1.kz/user-registration", waiting until "domcontentloaded"
+
+[2025-07-29 11:40:03] 996771500431 ❌ فشل → Page.goto: net::ERR_TIMED_OUT at https://www.w1.kz/user-registration
+Call log:
+  - navigating to "https://www.w1.kz/user-registration", waiting until "domcontentloaded"
+
+[2025-07-29 11:40:03] 996771500717 ❌ فشل → Page.goto: net::ERR_TIMED_OUT at https://www.w1.kz/user-registration
+Call log:
+  - navigating to "https://www.w1.kz/user-registration", waiting until "domcontentloaded"
+
+[2025-07-29 11:40:03] 996771500719 ❌ فشل → Page.goto: net::ERR_TIMED_OUT at https://www.w1.kz/user-registration
+Call log:
+  - navigating to "https://www.w1.kz/user-registration", waiting until "domcontentloaded"
+
+[2025-07-29 11:40:03] 996771500763 ❌ فشل → Page.goto: net::ERR_TIMED_OUT at https://www.w1.kz/user-registration
+Call log:
+  - navigating to "https://www.w1.kz/user-registration", waiting until "domcontentloaded"
+
+[2025-07-29 11:40:03] 996771500831 ❌ فشل → Page.goto: net::ERR_TIMED_OUT at https://www.w1.kz/user-registration
+Call log:
+  - navigating to "https://www.w1.kz/user-registration", waiting until "domcontentloaded"
+
+[2025-07-29 11:40:03] 996771500431 ❌ فشل → Page.goto: net::ERR_TIMED_OUT at https://www.w1.kz/user-registration
+Call log:
+  - navigating to "https://www.w1.kz/user-registration", waiting until "domcontentloaded"
+
+[2025-07-29 11:40:03] 996771500234 ❌ فشل → Page.goto: net::ERR_TIMED_OUT at https://www.w1.kz/user-registration
+Call log:
+  - navigating to "https://www.w1.kz/user-registration", waiting until "domcontentloaded"
+
+[2025-07-29 11:40:03] 996771500719 ❌ فشل → Page.goto: net::ERR_TIMED_OUT at https://www.w1.kz/user-registration
+Call log:
+  - navigating to "https://www.w1.kz/user-registration", waiting until "domcontentloaded"
+
+[2025-07-29 11:40:04] 996771500717 ❌ فشل → Page.goto: net::ERR_TIMED_OUT at https://www.w1.kz/user-registration
+Call log:
+  - navigating to "https://www.w1.kz/user-registration", waiting until "domcontentloaded"
+
+[2025-07-29 11:40:04] 996771500431 ❌ فشل → Page.goto: net::ERR_TIMED_OUT at https://www.w1.kz/user-registration
+Call log:
+  - navigating to "https://www.w1.kz/user-registration", waiting until "domcontentloaded"
+
+[2025-07-29 11:40:04] 996771500334 ❌ فشل → Page.goto: net::ERR_TIMED_OUT at https://www.w1.kz/user-registration
+Call log:
+  - navigating to "https://www.w1.kz/user-registration", waiting until "domcontentloaded"
+
+[2025-07-29 11:40:04] 996771500859 ❌ فشل → Page.goto: net::ERR_TIMED_OUT at https://www.w1.kz/user-registration
+Call log:
+  - navigating to "https://www.w1.kz/user-registration", waiting until "domcontentloaded"
+
+[2025-07-29 11:40:04] 996771500365 ❌ فشل → Page.goto: net::ERR_TIMED_OUT at https://www.w1.kz/user-registration
+Call log:
+  - navigating to "https://www.w1.kz/user-registration", waiting until "domcontentloaded"
+
+[2025-07-29 11:40:04] 996771500365 ❌ فشل → Page.goto: net::ERR_TIMED_OUT at https://www.w1.kz/user-registration
+Call log:
+  - navigating to "https://www.w1.kz/user-registration", waiting until "domcontentloaded"
+
+[2025-07-29 11:40:04] 996771500719 ❌ فشل → Page.goto: net::ERR_TIMED_OUT at https://www.w1.kz/user-registration
+Call log:
+  - navigating to "https://www.w1.kz/user-registration", waiting until "domcontentloaded"
+
+[2025-07-29 11:40:04] 996771500234 ❌ فشل → Page.goto: net::ERR_TIMED_OUT at https://www.w1.kz/user-registration
+Call log:
+  - navigating to "https://www.w1.kz/user-registration", waiting until "domcontentloaded"
+
+[2025-07-29 11:40:04] 996771500165 ❌ فشل → Page.goto: net::ERR_TIMED_OUT at https://www.w1.kz/user-registration
+Call log:
+  - navigating to "https://www.w1.kz/user-registration", waiting until "domcontentloaded"
+
+[2025-07-29 11:40:04] 996771500334 ❌ فشل → Page.goto: net::ERR_TIMED_OUT at https://www.w1.kz/user-registration
+Call log:
+  - navigating to "https://www.w1.kz/user-registration", waiting until "domcontentloaded"
+
+[2025-07-29 11:40:04] 996771501022 ❌ فشل → Page.goto: net::ERR_TIMED_OUT at https://www.w1.kz/user-registration
+Call log:
+  - navigating to "https://www.w1.kz/user-registration", waiting until "domcontentloaded"
+
+[2025-07-29 11:40:04] 996771501070 ❌ فشل → Page.goto: net::ERR_TIMED_OUT at https://www.w1.kz/user-registration
+Call log:
+  - navigating to "https://www.w1.kz/user-registration", waiting until "domcontentloaded"
+
+[2025-07-29 11:40:04] 996771500831 ❌ فشل → Page.goto: net::ERR_TIMED_OUT at https://www.w1.kz/user-registration
+Call log:
+  - navigating to "https://www.w1.kz/user-registration", waiting until "domcontentloaded"
+
+[2025-07-29 11:40:05] 996771500763 ❌ فشل → Page.goto: net::ERR_TIMED_OUT at https://www.w1.kz/user-registration
+Call log:
+  - navigating to "https://www.w1.kz/user-registration", waiting until "domcontentloaded"
+
+[2025-07-29 11:40:05] 996771500831 ❌ فشل → Page.goto: net::ERR_TIMED_OUT at https://www.w1.kz/user-registration
+Call log:
+  - navigating to "https://www.w1.kz/user-registration", waiting until "domcontentloaded"
+
+[2025-07-29 11:40:05] 996771500859 ❌ فشل → Page.goto: net::ERR_TIMED_OUT at https://www.w1.kz/user-registration
+Call log:
+  - navigating to "https://www.w1.kz/user-registration", waiting until "domcontentloaded"
+
+[2025-07-29 11:40:05] 996771501022 ❌ فشل → Page.goto: net::ERR_TIMED_OUT at https://www.w1.kz/user-registration
+Call log:
+  - navigating to "https://www.w1.kz/user-registration", waiting until "domcontentloaded"
+
+[2025-07-29 11:40:05] 996771501070 ❌ فشل → Page.goto: net::ERR_TIMED_OUT at https://www.w1.kz/user-registration
+Call log:
+  - navigating to "https://www.w1.kz/user-registration", waiting until "domcontentloaded"
+
+[2025-07-29 11:40:05] 996771501105 ❌ فشل → Page.goto: net::ERR_TIMED_OUT at https://www.w1.kz/user-registration
+Call log:
+  - navigating to "https://www.w1.kz/user-registration", waiting until "domcontentloaded"
+
+[2025-07-29 11:40:05] 996771501122 ❌ فشل → Page.goto: net::ERR_TIMED_OUT at https://www.w1.kz/user-registration
+Call log:
+  - navigating to "https://www.w1.kz/user-registration", waiting until "domcontentloaded"
+
+[2025-07-29 11:40:06] 996771501105 ❌ فشل → Page.goto: net::ERR_TIMED_OUT at https://www.w1.kz/user-registration
+Call log:
+  - navigating to "https://www.w1.kz/user-registration", waiting until "domcontentloaded"
+
+[2025-07-29 11:40:06] 996771501122 ❌ فشل → Page.goto: net::ERR_TIMED_OUT at https://www.w1.kz/user-registration
+Call log:
+  - navigating to "https://www.w1.kz/user-registration", waiting until "domcontentloaded"
+
+[2025-07-29 11:40:06] 996771501743 ❌ فشل → Page.goto: net::ERR_TIMED_OUT at https://www.w1.kz/user-registration
+Call log:
+  - navigating to "https://www.w1.kz/user-registration", waiting until "domcontentloaded"
+
+[2025-07-29 11:40:06] 996771501461 ❌ فشل → Page.goto: net::ERR_TIMED_OUT at https://www.w1.kz/user-registration
+Call log:
+  - navigating to "https://www.w1.kz/user-registration", waiting until "domcontentloaded"
+
+[2025-07-29 11:40:06] 996771500763 ❌ فشل → Page.goto: net::ERR_TIMED_OUT at https://www.w1.kz/user-registration
+Call log:
+  - navigating to "https://www.w1.kz/user-registration", waiting until "domcontentloaded"
+
+[2025-07-29 11:40:07] 996771501177 ❌ فشل → Page.goto: net::ERR_TIMED_OUT at https://www.w1.kz/user-registration
+Call log:
+  - navigating to "https://www.w1.kz/user-registration", waiting until "domcontentloaded"
+
+[2025-07-29 11:40:09] 996771501022 ❌ فشل → Page.goto: net::ERR_TIMED_OUT at https://www.w1.kz/user-registration
+Call log:
+  - navigating to "https://www.w1.kz/user-registration", waiting until "domcontentloaded"
+
+[2025-07-29 11:40:09] 996771501314 ❌ فشل → Page.goto: net::ERR_TIMED_OUT at https://www.w1.kz/user-registration
+Call log:
+  - navigating to "https://www.w1.kz/user-registration", waiting until "domcontentloaded"
+
+[2025-07-29 11:40:09] 996771501461 ❌ فشل → Page.goto: net::ERR_TIMED_OUT at https://www.w1.kz/user-registration
+Call log:
+  - navigating to "https://www.w1.kz/user-registration", waiting until "domcontentloaded"
+
+[2025-07-29 11:40:09] 996771501314 ❌ فشل → Page.goto: net::ERR_TIMED_OUT at https://www.w1.kz/user-registration
+Call log:
+  - navigating to "https://www.w1.kz/user-registration", waiting until "domcontentloaded"
+
