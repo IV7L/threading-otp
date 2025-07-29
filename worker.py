@@ -19,11 +19,12 @@ async def handle_number(phone, browser):
         print(f"[{phone}] ✅ فتح الصفحة: {SITE_CONFIG['site_url']}")
 
         # إدخال الرقم في الحقل
+        await page.wait_for_selector("//input[@aria-label='Номер телефона']", timeout=60000)
         await page.locator(SITE_CONFIG["phone_input_xpath"]).fill(phone)
         print(f"[{phone}] 📝 أدخل الرقم في الحقل")
 
         # حل الكابتشا
-        token = get_captcha_token(SITE_CONFIG)
+        token = await get_captcha_token(SITE_CONFIG)
         print(f"[{phone}] 🔓 تم حل الكابتشا: {token[:20]}...")
 
         # تجهيز الطلب لإرساله
